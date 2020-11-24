@@ -1,0 +1,76 @@
+CaseID,Activity,Timestamp,Originator
+6856132335fb7a8e96111f0033936058,Mencari supplier bahan mikrobial,2020-11-20 06:30:52,tim pencari
+6856132335fb7a8e96111f0033936058,Menerima informasi supplier,2020-11-20 06:30:54,tim pencari
+6856132335fb7a8e96111f0033936058,Memeriksa kelayakan bahan,2020-11-20 06:30:58,tim pencari
+6856132335fb7a8e96111f0033936058,Memeriksa sertifikat halal dan atau logo halal,2020-11-20 06:31:15,tim penguji halal
+6856132335fb7a8e96111f0033936058,Melakukan negosiasi,2020-11-20 06:31:30,tim pencari
+6856132335fb7a8e96111f0033936058,Mencari supplier bahan mikrobial,2020-11-20 06:31:36,tim pencari
+6856132335fb7a8e96111f0033936058,Menerima informasi supplier,2020-11-20 06:31:40,tim pencari
+6856132335fb7a8e96111f0033936058,Memeriksa kelayakan bahan,2020-11-20 06:31:44,tim pencari
+6856132335fb7a8e96111f0033936058,Memeriksa sertifikat halal dan atau logo halal,2020-11-20 06:31:56,tim penguji halal
+6856132335fb7a8e96111f0033936058,Melakukan negosiasi,2020-11-20 06:32:19,tim pencari
+6856132335fb7a8e96111f0033936058,mengevaluasi pembelian,2020-11-20 06:32:37,bendahara
+6856132335fb7a8e96111f0033936058,Mencari supplier bahan mikrobial,2020-11-20 06:32:48,tim pencari
+6856132335fb7a8e96111f0033936058,Menerima informasi supplier,2020-11-20 06:32:52,tim pencari
+6856132335fb7a8e96111f0033936058,Memeriksa kelayakan bahan,2020-11-20 06:32:56,tim pencari
+6856132335fb7a8e96111f0033936058,Memeriksa sertifikat halal dan atau logo halal,2020-11-20 06:33:08,tim penguji halal
+6856132335fb7a8e96111f0033936058,Melakukan negosiasi,2020-11-20 06:33:17,tim pencari
+6856132335fb7a8e96111f0033936058,mengevaluasi pembelian,2020-11-20 06:33:29,bendahara
+6856132335fb7a8e96111f0033936058,Melakukan pembelian,2020-11-20 06:33:34,bendahara
+6856132335fb7a8e96111f0033936058,Menerima bahan,2020-11-20 06:33:43,tim pencari
+6856132335fb7a8e96111f0033936058,Melakukan negosiasi,2020-11-20 06:33:50,tim pencari
+6856132335fb7a8e96111f0033936058,Mencari supplier bahan mikrobial,2020-11-20 06:33:59,tim pencari
+6856132335fb7a8e96111f0033936058,Menerima informasi supplier,2020-11-20 06:34:03,tim pencari
+6856132335fb7a8e96111f0033936058,Memeriksa kelayakan bahan,2020-11-20 06:34:06,tim pencari
+6856132335fb7a8e96111f0033936058,Memeriksa sertifikat halal dan atau logo halal,2020-11-20 06:34:16,tim penguji halal
+6856132335fb7a8e96111f0033936058,Melakukan negosiasi,2020-11-20 06:34:25,tim pencari
+6856132335fb7a8e96111f0033936058,mengevaluasi pembelian,2020-11-20 06:34:36,bendahara
+6856132335fb7a8e96111f0033936058,Melakukan pembelian,2020-11-20 06:34:41,bendahara
+6856132335fb7a8e96111f0033936058,Menerima bahan,2020-11-20 06:34:48,tim pencari
+6856132335fb7a8e96111f0033936058,Melakukan negosiasi,2020-11-20 06:34:57,tim pencari
+6856132335fb7a8e96111f0033936058,mengevaluasi pembelian,2020-11-20 06:35:07,bendahara
+6856132335fb7a8e96111f0033936058,Melakukan pembelian,2020-11-20 06:35:11,bendahara
+6856132335fb7a8e96111f0033936058,Menerima bahan,2020-11-20 06:35:20,tim pencari
+6856132335fb7a8e96111f0033936058,Melakukan pembayaran,2020-11-20 06:35:32,bendahara
+7626265815fb79e2caeeaf8010081328,Melakukan pembelian,2020-11-20 06:06:43,bendahara
+9335776315fb7a79703c9b6054451279,Mencari supplier bahan mikrobial,2020-11-20 06:25:16,tim pencari
+9335776315fb7a79703c9b6054451279,Menerima informasi supplier,2020-11-20 06:25:19,tim pencari
+9335776315fb7a79703c9b6054451279,Memeriksa kelayakan bahan,2020-11-20 06:25:24,tim pencari
+9335776315fb7a79703c9b6054451279,Mencari supplier bahan mikrobial,2020-11-20 06:25:30,tim pencari
+9335776315fb7a79703c9b6054451279,Menerima informasi supplier,2020-11-20 06:25:34,tim pencari
+9335776315fb7a79703c9b6054451279,Memeriksa kelayakan bahan,2020-11-20 06:25:38,tim pencari
+9335776315fb7a79703c9b6054451279,Memeriksa sertifikat halal dan atau logo halal,2020-11-20 06:25:53,tim penguji halal
+9335776315fb7a79703c9b6054451279,Memeriksa kandungan dan sumber bahan microbial,2020-11-20 06:26:04,tim penguji halal
+9335776315fb7a79703c9b6054451279,Mencari supplier bahan mikrobial,2020-11-20 06:26:15,tim pencari
+9335776315fb7a79703c9b6054451279,Menerima informasi supplier,2020-11-20 06:26:20,tim pencari
+9335776315fb7a79703c9b6054451279,Memeriksa kelayakan bahan,2020-11-20 06:26:24,tim pencari
+9335776315fb7a79703c9b6054451279,Memeriksa sertifikat halal dan atau logo halal,2020-11-20 06:26:35,tim penguji halal
+9335776315fb7a79703c9b6054451279,Memeriksa kandungan dan sumber bahan microbial,2020-11-20 06:26:43,tim penguji halal
+9335776315fb7a79703c9b6054451279,Melakukan negosiasi,2020-11-20 06:26:53,tim pencari
+9335776315fb7a79703c9b6054451279,Mencari supplier bahan mikrobial,2020-11-20 06:27:03,tim pencari
+9335776315fb7a79703c9b6054451279,Menerima informasi supplier,2020-11-20 06:27:07,tim pencari
+9335776315fb7a79703c9b6054451279,Memeriksa kelayakan bahan,2020-11-20 06:27:10,tim pencari
+9335776315fb7a79703c9b6054451279,Memeriksa sertifikat halal dan atau logo halal,2020-11-20 06:27:21,tim penguji halal
+9335776315fb7a79703c9b6054451279,Memeriksa kandungan dan sumber bahan microbial,2020-11-20 06:27:27,tim penguji halal
+9335776315fb7a79703c9b6054451279,Melakukan negosiasi,2020-11-20 06:27:37,tim pencari
+9335776315fb7a79703c9b6054451279,mengevaluasi pembelian,2020-11-20 06:27:54,bendahara
+9335776315fb7a79703c9b6054451279,Mencari supplier bahan mikrobial,2020-11-20 06:28:07,tim pencari
+9335776315fb7a79703c9b6054451279,Menerima informasi supplier,2020-11-20 06:28:11,tim pencari
+9335776315fb7a79703c9b6054451279,Memeriksa kelayakan bahan,2020-11-20 06:28:14,tim pencari
+9335776315fb7a79703c9b6054451279,Memeriksa sertifikat halal dan atau logo halal,2020-11-20 06:28:27,tim penguji halal
+9335776315fb7a79703c9b6054451279,Memeriksa kandungan dan sumber bahan microbial,2020-11-20 06:28:31,tim penguji halal
+9335776315fb7a79703c9b6054451279,Melakukan negosiasi,2020-11-20 06:28:40,tim pencari
+9335776315fb7a79703c9b6054451279,mengevaluasi pembelian,2020-11-20 06:28:52,bendahara
+9335776315fb7a79703c9b6054451279,Melakukan pembelian,2020-11-20 06:28:57,bendahara
+9335776315fb7a79703c9b6054451279,Menerima bahan,2020-11-20 06:29:06,tim pencari
+9335776315fb7a79703c9b6054451279,Melakukan negosiasi,2020-11-20 06:29:15,tim pencari
+9335776315fb7a79703c9b6054451279,Mencari supplier bahan mikrobial,2020-11-20 06:29:22,tim pencari
+9335776315fb7a79703c9b6054451279,Menerima informasi supplier,2020-11-20 06:29:26,tim pencari
+9335776315fb7a79703c9b6054451279,Memeriksa kelayakan bahan,2020-11-20 06:29:29,tim pencari
+9335776315fb7a79703c9b6054451279,Memeriksa sertifikat halal dan atau logo halal,2020-11-20 06:29:40,tim penguji halal
+9335776315fb7a79703c9b6054451279,Memeriksa kandungan dan sumber bahan microbial,2020-11-20 06:29:45,tim penguji halal
+9335776315fb7a79703c9b6054451279,Melakukan negosiasi,2020-11-20 06:29:56,tim pencari
+9335776315fb7a79703c9b6054451279,mengevaluasi pembelian,2020-11-20 06:30:09,bendahara
+9335776315fb7a79703c9b6054451279,Melakukan pembelian,2020-11-20 06:30:14,bendahara
+9335776315fb7a79703c9b6054451279,Menerima bahan,2020-11-20 06:30:23,tim pencari
+9335776315fb7a79703c9b6054451279,Melakukan pembayaran,2020-11-20 06:30:37,bendahara
