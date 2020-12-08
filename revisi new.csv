@@ -1,0 +1,216 @@
+CaseID,Activity,Timestamp,Originator
+1468347325fc72dac68e623071709406,Mencari supplier bahan mikrobial,2020-12-02 01:01:18,tim pencari
+1468347325fc72dac68e623071709406,Menerima informasi supplier,2020-12-02 01:01:20,tim pencari
+1468347325fc72dac68e623071709406,Memeriksa kelayakan bahan,2020-12-02 01:01:24,tim pencari
+1468347325fc72dac68e623071709406,Mencari supplier bahan mikrobial,2020-12-02 01:01:28,tim pencari
+1468347325fc72dac68e623071709406,Menerima informasi supplier,2020-12-02 01:01:32,tim pencari
+1468347325fc72dac68e623071709406,Memeriksa kelayakan bahan,2020-12-02 01:01:36,tim pencari
+1468347325fc72dac68e623071709406,Memeriksa sertifikat halal dan atau logo halal,2020-12-02 01:01:47,tim penguji halal
+1468347325fc72dac68e623071709406,Melakukan negosiasi,2020-12-02 01:01:58,tim pencari
+1468347325fc72dac68e623071709406,Mengevaluasi Pembelian,2020-12-02 01:02:11,bendahara
+1468347325fc72dac68e623071709406,Melakukan Pembelian,2020-12-02 01:02:17,bendahara
+1468347325fc72dac68e623071709406,Melakukan pembayaran,2020-12-02 01:02:21,bendahara
+1468347325fc72dac68e623071709406,Membayar dengan transfer bank,2020-12-02 01:02:26,bendahara
+1468347325fc72dac68e623071709406,Konfirmasi Pembayaran,2020-12-02 01:03:18,supplier
+1468347325fc72dac68e623071709406,Pembuatan Nota Transfer Bank,2020-12-02 01:03:23,supplier
+1468347325fc72dac68e623071709406,Menerima Bahan,2020-12-02 01:04:40,tim pencari
+1919989835fcf2c8d2adbf6007223891,Mencari supplier bahan mikrobial,2020-12-08 02:34:51,tim pencari
+1919989835fcf2c8d2adbf6007223891,Menerima informasi supplier,2020-12-08 02:34:55,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa kelayakan bahan,2020-12-08 02:34:59,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa sertifikat halal dan atau logo halal,2020-12-08 02:35:10,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan alkohol,2020-12-08 02:35:18,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Mencari supplier bahan mikrobial,2020-12-08 02:35:45,tim pencari
+1919989835fcf2c8d2adbf6007223891,Menerima informasi supplier,2020-12-08 02:35:50,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa kelayakan bahan,2020-12-08 02:35:53,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa sertifikat halal dan atau logo halal,2020-12-08 02:36:07,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan alkohol,2020-12-08 02:36:12,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan dan sumber bahan microbial,2020-12-08 02:36:17,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa jenis karbon dan nitrogen pada mikroba,2020-12-08 02:36:25,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan enzim pada mikroba,2020-12-08 02:36:31,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Kesimpulan Haram,2020-12-08 02:36:36,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Mencari supplier bahan mikrobial,2020-12-08 02:36:45,tim pencari
+1919989835fcf2c8d2adbf6007223891,Menerima informasi supplier,2020-12-08 02:36:49,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa kelayakan bahan,2020-12-08 02:36:53,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa sertifikat halal dan atau logo halal,2020-12-08 02:37:03,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan alkohol,2020-12-08 02:37:09,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan dan sumber bahan microbial,2020-12-08 02:37:13,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,informasi tidak halal dari supllier,2020-12-08 02:37:22,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Kesimpulan Haram,2020-12-08 02:37:26,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Mencari supplier bahan mikrobial,2020-12-08 02:37:41,tim pencari
+1919989835fcf2c8d2adbf6007223891,Menerima informasi supplier,2020-12-08 02:37:45,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa kelayakan bahan,2020-12-08 02:37:48,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa sertifikat halal dan atau logo halal,2020-12-08 02:38:01,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan alkohol,2020-12-08 02:38:12,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan dan sumber bahan microbial,2020-12-08 02:38:16,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa jenis karbon dan nitrogen pada mikroba,2020-12-08 02:38:21,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan enzim pada mikroba,2020-12-08 02:38:25,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Kesimpulan Haram,2020-12-08 02:38:31,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Mencari supplier bahan mikrobial,2020-12-08 02:38:40,tim pencari
+1919989835fcf2c8d2adbf6007223891,Menerima informasi supplier,2020-12-08 02:38:43,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa kelayakan bahan,2020-12-08 02:38:46,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa sertifikat halal dan atau logo halal,2020-12-08 02:38:57,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan alkohol,2020-12-08 02:39:01,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan dan sumber bahan microbial,2020-12-08 02:39:05,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa jenis karbon dan nitrogen pada mikroba,2020-12-08 02:39:11,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan enzim pada mikroba,2020-12-08 02:39:17,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Kesimpulan Haram,2020-12-08 02:39:21,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Mencari supplier bahan mikrobial,2020-12-08 02:39:29,tim pencari
+1919989835fcf2c8d2adbf6007223891,Menerima informasi supplier,2020-12-08 02:39:32,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa kelayakan bahan,2020-12-08 02:39:36,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa sertifikat halal dan atau logo halal,2020-12-08 02:39:44,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan alkohol,2020-12-08 02:39:48,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan dan sumber bahan microbial,2020-12-08 02:39:51,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa jenis karbon dan nitrogen pada mikroba,2020-12-08 02:39:56,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan enzim pada mikroba,2020-12-08 02:40:00,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Kesimpulan Haram,2020-12-08 02:40:04,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Melakukan negosiasi,2020-12-08 02:40:13,tim pencari
+1919989835fcf2c8d2adbf6007223891,Mencari supplier bahan mikrobial,2020-12-08 02:40:18,tim pencari
+1919989835fcf2c8d2adbf6007223891,Menerima informasi supplier,2020-12-08 02:40:22,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa kelayakan bahan,2020-12-08 02:40:25,tim pencari
+1919989835fcf2c8d2adbf6007223891,Memeriksa sertifikat halal dan atau logo halal,2020-12-08 02:40:41,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan alkohol,2020-12-08 02:40:46,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan dan sumber bahan microbial,2020-12-08 02:40:52,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa jenis karbon dan nitrogen pada mikroba,2020-12-08 02:40:57,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Memeriksa kandungan enzim pada mikroba,2020-12-08 02:41:04,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Kesimpulan Haram,2020-12-08 02:41:08,tim penguji halal
+1919989835fcf2c8d2adbf6007223891,Melakukan negosiasi,2020-12-08 02:41:18,tim pencari
+1919989835fcf2c8d2adbf6007223891,Mengevaluasi Pembelian,2020-12-08 02:41:30,bendahara
+1919989835fcf2c8d2adbf6007223891,Melakukan Pembelian,2020-12-08 02:41:36,bendahara
+1919989835fcf2c8d2adbf6007223891,Melakukan pembayaran,2020-12-08 02:41:40,bendahara
+1919989835fcf2c8d2adbf6007223891,Membayar dengan transfer bank,2020-12-08 02:41:48,bendahara
+1919989835fcf2c8d2adbf6007223891,Konfirmasi Pembayaran,2020-12-08 02:41:57,supplier
+1919989835fcf2c8d2adbf6007223891,Pembuatan Nota Transfer Bank,2020-12-08 02:42:01,supplier
+1919989835fcf2c8d2adbf6007223891,Menerima Bahan,2020-12-08 02:42:14,tim pencari
+2980170455fc72e81343816038576288,Mencari supplier bahan mikrobial,2020-12-02 01:04:50,tim pencari
+2980170455fc72e81343816038576288,Menerima informasi supplier,2020-12-02 01:04:53,tim pencari
+2980170455fc72e81343816038576288,Memeriksa kelayakan bahan,2020-12-02 01:04:57,tim pencari
+2980170455fc72e81343816038576288,Memeriksa sertifikat halal dan atau logo halal,2020-12-02 01:05:09,tim penguji halal
+2980170455fc72e81343816038576288,Melakukan negosiasi,2020-12-02 01:05:21,tim pencari
+2980170455fc72e81343816038576288,Mencari supplier bahan mikrobial,2020-12-02 01:05:26,tim pencari
+2980170455fc72e81343816038576288,Menerima informasi supplier,2020-12-02 01:05:30,tim pencari
+2980170455fc72e81343816038576288,Memeriksa kelayakan bahan,2020-12-02 01:05:33,tim pencari
+2980170455fc72e81343816038576288,Memeriksa sertifikat halal dan atau logo halal,2020-12-02 01:05:43,tim penguji halal
+2980170455fc72e81343816038576288,Melakukan negosiasi,2020-12-02 01:05:53,tim pencari
+2980170455fc72e81343816038576288,Mengevaluasi Pembelian,2020-12-02 01:06:07,bendahara
+2980170455fc72e81343816038576288,Mencari supplier bahan mikrobial,2020-12-02 01:06:16,tim pencari
+2980170455fc72e81343816038576288,Menerima informasi supplier,2020-12-02 01:06:20,tim pencari
+2980170455fc72e81343816038576288,Memeriksa kelayakan bahan,2020-12-02 01:06:23,tim pencari
+2980170455fc72e81343816038576288,Memeriksa sertifikat halal dan atau logo halal,2020-12-02 01:06:33,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan alkohol,2020-12-02 01:09:40,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan dan sumber bahan microbial,2020-12-02 01:10:10,tim penguji halal
+2980170455fc72e81343816038576288,informasi tidak halal dari supllier,2020-12-02 01:10:47,tim penguji halal
+2980170455fc72e81343816038576288,Kesimpulan Haram,2020-12-02 01:10:58,tim penguji halal
+2980170455fc72e81343816038576288,Melakukan negosiasi,2020-12-02 01:11:38,tim pencari
+2980170455fc72e81343816038576288,Mencari supplier bahan mikrobial,2020-12-02 01:11:45,tim pencari
+2980170455fc72e81343816038576288,Menerima informasi supplier,2020-12-02 01:11:55,tim pencari
+2980170455fc72e81343816038576288,Memeriksa kelayakan bahan,2020-12-02 01:12:11,tim pencari
+2980170455fc72e81343816038576288,Memeriksa sertifikat halal dan atau logo halal,2020-12-02 01:12:28,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan alkohol,2020-12-02 01:12:33,tim penguji halal
+2980170455fc72e81343816038576288,Mencari supplier bahan mikrobial,2020-12-02 01:12:47,tim pencari
+2980170455fc72e81343816038576288,Menerima informasi supplier,2020-12-02 01:12:50,tim pencari
+2980170455fc72e81343816038576288,Memeriksa kelayakan bahan,2020-12-02 01:12:54,tim pencari
+2980170455fc72e81343816038576288,Memeriksa sertifikat halal dan atau logo halal,2020-12-02 01:13:07,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan alkohol,2020-12-02 01:13:12,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan dan sumber bahan microbial,2020-12-02 01:13:16,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa jenis karbon dan nitrogen pada mikroba,2020-12-02 01:13:48,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan enzim pada mikroba,2020-12-02 01:13:21,tim penguji halal
+2980170455fc72e81343816038576288,Kesimpulan Haram,2020-12-02 01:14:18,tim penguji halal
+2980170455fc72e81343816038576288,Mencari supplier bahan mikrobial,2020-12-02 01:14:31,tim pencari
+2980170455fc72e81343816038576288,Menerima informasi supplier,2020-12-02 01:14:35,tim pencari
+2980170455fc72e81343816038576288,Memeriksa kelayakan bahan,2020-12-02 01:14:39,tim pencari
+2980170455fc72e81343816038576288,Memeriksa sertifikat halal dan atau logo halal,2020-12-02 01:14:50,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan alkohol,2020-12-02 01:14:57,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan dan sumber bahan microbial,2020-12-02 01:15:01,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa jenis karbon dan nitrogen pada mikroba,2020-12-02 01:15:11,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan enzim pada mikroba,2020-12-02 01:15:07,tim penguji halal
+2980170455fc72e81343816038576288,Kesimpulan Haram,2020-12-02 01:15:16,tim penguji halal
+2980170455fc72e81343816038576288,Mencari supplier bahan mikrobial,2020-12-02 01:15:27,tim pencari
+2980170455fc72e81343816038576288,Menerima informasi supplier,2020-12-02 01:15:30,tim pencari
+2980170455fc72e81343816038576288,Memeriksa kelayakan bahan,2020-12-02 01:15:34,tim pencari
+2980170455fc72e81343816038576288,Memeriksa sertifikat halal dan atau logo halal,2020-12-02 01:15:46,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan alkohol,2020-12-02 01:15:50,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan dan sumber bahan microbial,2020-12-02 01:15:55,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa jenis karbon dan nitrogen pada mikroba,2020-12-02 01:16:04,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan enzim pada mikroba,2020-12-02 01:16:00,tim penguji halal
+2980170455fc72e81343816038576288,Kesimpulan Haram,2020-12-02 01:16:09,tim penguji halal
+2980170455fc72e81343816038576288,Melakukan negosiasi,2020-12-02 01:16:20,tim pencari
+2980170455fc72e81343816038576288,Mencari supplier bahan mikrobial,2020-12-02 01:16:27,tim pencari
+2980170455fc72e81343816038576288,Menerima informasi supplier,2020-12-02 01:16:30,tim pencari
+2980170455fc72e81343816038576288,Memeriksa kelayakan bahan,2020-12-02 01:16:34,tim pencari
+2980170455fc72e81343816038576288,Memeriksa sertifikat halal dan atau logo halal,2020-12-02 01:16:46,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan alkohol,2020-12-02 01:16:52,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan dan sumber bahan microbial,2020-12-02 01:16:56,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa jenis karbon dan nitrogen pada mikroba,2020-12-02 01:17:05,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan enzim pada mikroba,2020-12-02 01:17:01,tim penguji halal
+2980170455fc72e81343816038576288,Kesimpulan Haram,2020-12-02 01:17:09,tim penguji halal
+2980170455fc72e81343816038576288,Mencari supplier bahan mikrobial,2020-12-02 01:17:22,tim pencari
+2980170455fc72e81343816038576288,Menerima informasi supplier,2020-12-02 01:17:26,tim pencari
+2980170455fc72e81343816038576288,Memeriksa kelayakan bahan,2020-12-02 01:17:29,tim pencari
+2980170455fc72e81343816038576288,Memeriksa sertifikat halal dan atau logo halal,2020-12-02 01:17:40,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan alkohol,2020-12-02 01:17:44,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan dan sumber bahan microbial,2020-12-02 01:17:47,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa jenis karbon dan nitrogen pada mikroba,2020-12-02 01:17:57,tim penguji halal
+2980170455fc72e81343816038576288,Memeriksa kandungan enzim pada mikroba,2020-12-02 01:17:52,tim penguji halal
+2980170455fc72e81343816038576288,Kesimpulan Haram,2020-12-02 01:18:03,tim penguji halal
+2980170455fc72e81343816038576288,Melakukan negosiasi,2020-12-02 01:18:13,tim pencari
+2980170455fc72e81343816038576288,Mengevaluasi Pembelian,2020-12-02 01:18:29,bendahara
+2980170455fc72e81343816038576288,Melakukan Pembelian,2020-12-02 01:18:46,bendahara
+2980170455fc72e81343816038576288,Melakukan pembayaran,2020-12-02 01:18:50,bendahara
+2980170455fc72e81343816038576288,Membayar dengan uang tunai,2020-12-02 01:18:54,bendahara
+2980170455fc72e81343816038576288,Konfirmasi Pembayaran,2020-12-02 01:19:06,supplier
+2980170455fc72e81343816038576288,Pembuatan Nota Uang Tunai,2020-12-02 01:19:10,supplier
+2980170455fc72e81343816038576288,Menerima Bahan,2020-12-02 01:19:19,tim pencari
+6947333785fc72b83a42284022866102,Mencari supplier bahan mikrobial,2020-12-02 00:52:05,tim pencari
+6947333785fc72b83a42284022866102,Menerima informasi supplier,2020-12-02 00:52:09,tim pencari
+6947333785fc72b83a42284022866102,Memeriksa kelayakan bahan,2020-12-02 00:52:28,tim pencari
+6947333785fc72b83a42284022866102,Memeriksa sertifikat halal dan atau logo halal,2020-12-02 00:53:02,tim penguji halal
+6947333785fc72b83a42284022866102,Melakukan negosiasi,2020-12-02 00:53:36,tim pencari
+6947333785fc72b83a42284022866102,Mengevaluasi Pembelian,2020-12-02 00:54:22,bendahara
+6947333785fc72b83a42284022866102,Melakukan Pembelian,2020-12-02 00:54:56,bendahara
+6947333785fc72b83a42284022866102,Melakukan pembayaran,2020-12-02 00:55:16,bendahara
+6947333785fc72b83a42284022866102,Membayar dengan uang tunai,2020-12-02 00:57:20,bendahara
+6947333785fc72b83a42284022866102,Konfirmasi Pembayaran,2020-12-02 00:59:47,supplier
+6947333785fc72b83a42284022866102,Pembuatan Nota Uang Tunai,2020-12-02 01:00:17,supplier
+6947333785fc72b83a42284022866102,Menerima Bahan,2020-12-02 01:00:52,tim pencari
+7210991015fcf2e5d17d5a5058590093,Mencari supplier bahan mikrobial,2020-12-08 02:42:22,tim pencari
+7210991015fcf2e5d17d5a5058590093,Menerima informasi supplier,2020-12-08 02:42:25,tim pencari
+7210991015fcf2e5d17d5a5058590093,Memeriksa kelayakan bahan,2020-12-08 02:42:28,tim pencari
+7210991015fcf2e5d17d5a5058590093,Memeriksa sertifikat halal dan atau logo halal,2020-12-08 02:42:39,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Memeriksa kandungan alkohol,2020-12-08 02:42:48,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Memeriksa kandungan dan sumber bahan microbial,2020-12-08 02:42:53,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,informasi tidak halal dari supllier,2020-12-08 02:43:00,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Kesimpulan Haram,2020-12-08 02:43:05,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Mencari supplier bahan mikrobial,2020-12-08 02:43:17,tim pencari
+7210991015fcf2e5d17d5a5058590093,Menerima informasi supplier,2020-12-08 02:43:29,tim pencari
+7210991015fcf2e5d17d5a5058590093,Memeriksa kelayakan bahan,2020-12-08 02:43:34,tim pencari
+7210991015fcf2e5d17d5a5058590093,Memeriksa sertifikat halal dan atau logo halal,2020-12-08 02:43:45,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Melakukan negosiasi,2020-12-08 02:44:04,tim pencari
+7210991015fcf2e5d17d5a5058590093,Mencari supplier bahan mikrobial,2020-12-08 02:44:15,tim pencari
+7210991015fcf2e5d17d5a5058590093,Menerima informasi supplier,2020-12-08 02:44:19,tim pencari
+7210991015fcf2e5d17d5a5058590093,Memeriksa kelayakan bahan,2020-12-08 02:44:22,tim pencari
+7210991015fcf2e5d17d5a5058590093,Memeriksa sertifikat halal dan atau logo halal,2020-12-08 02:44:31,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Melakukan negosiasi,2020-12-08 02:44:42,tim pencari
+7210991015fcf2e5d17d5a5058590093,Mengevaluasi Pembelian,2020-12-08 02:45:03,bendahara
+7210991015fcf2e5d17d5a5058590093,Mencari supplier bahan mikrobial,2020-12-08 02:45:13,tim pencari
+7210991015fcf2e5d17d5a5058590093,Menerima informasi supplier,2020-12-08 02:45:17,tim pencari
+7210991015fcf2e5d17d5a5058590093,Memeriksa kelayakan bahan,2020-12-08 02:45:20,tim pencari
+7210991015fcf2e5d17d5a5058590093,Memeriksa sertifikat halal dan atau logo halal,2020-12-08 02:45:36,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Memeriksa kandungan alkohol,2020-12-08 02:45:41,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Memeriksa kandungan dan sumber bahan microbial,2020-12-08 02:45:50,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Memeriksa jenis karbon dan nitrogen pada mikroba,2020-12-08 02:46:08,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Memeriksa kandungan enzim pada mikroba,2020-12-08 02:45:58,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Kesimpulan Haram,2020-12-08 02:46:11,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Melakukan negosiasi,2020-12-08 02:46:20,tim pencari
+7210991015fcf2e5d17d5a5058590093,Mengevaluasi Pembelian,2020-12-08 02:46:30,bendahara
+7210991015fcf2e5d17d5a5058590093,Mencari supplier bahan mikrobial,2020-12-08 02:46:39,tim pencari
+7210991015fcf2e5d17d5a5058590093,Menerima informasi supplier,2020-12-08 02:46:43,tim pencari
+7210991015fcf2e5d17d5a5058590093,Memeriksa kelayakan bahan,2020-12-08 02:46:47,tim pencari
+7210991015fcf2e5d17d5a5058590093,Memeriksa sertifikat halal dan atau logo halal,2020-12-08 02:46:56,tim penguji halal
+7210991015fcf2e5d17d5a5058590093,Melakukan negosiasi,2020-12-08 02:47:06,tim pencari
+7210991015fcf2e5d17d5a5058590093,Mengevaluasi Pembelian,2020-12-08 02:47:15,bendahara
+7210991015fcf2e5d17d5a5058590093,Melakukan Pembelian,2020-12-08 02:47:20,bendahara
+7210991015fcf2e5d17d5a5058590093,Melakukan pembayaran,2020-12-08 02:47:24,bendahara
+7210991015fcf2e5d17d5a5058590093,Membayar dengan uang tunai,2020-12-08 02:47:28,bendahara
+7210991015fcf2e5d17d5a5058590093,Konfirmasi Pembayaran,2020-12-08 02:47:36,supplier
+7210991015fcf2e5d17d5a5058590093,Pembuatan Nota Uang Tunai,2020-12-08 02:47:40,supplier
+7210991015fcf2e5d17d5a5058590093,Menerima Bahan,2020-12-08 02:47:53,tim pencari
